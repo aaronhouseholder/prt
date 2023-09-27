@@ -9,7 +9,7 @@ Download the opacity and input data (12.1 GB) from petitRADTRANS. Make a folder 
 
 # Steps: 
 
-Step 1: Clone the repo to your desktop: `cd Desktop` and `git clone https://github.com/aaronhouseholder/installing-PRT`
+Step 1: Clone the repo to your desktop: `cd Desktop` and `git clone https://github.com/aaronhouseholder/prt`
 
 Step 2: Navigate to the Cloned Directory: `cd prt`
 
