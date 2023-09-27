@@ -1,0 +1,11 @@
+version: "3"
+services: 
+  dev:
+    image: prt:latest
+    ports:
+      - 8888:8888
+    volumes:
+      - ~/Desktop/input_data:/app/input_data
+      - ~/Desktop/prt:/app/prt
+    stdin_open: true 
+    tty: true
